@@ -7,7 +7,7 @@ require (
 	github.com/go-logr/stdr v1.2.2
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/sync v0.3.0
-	golang.org/x/time v0.3.0
+	golang.org/x/time v0.5.0
 )
 
 require (
